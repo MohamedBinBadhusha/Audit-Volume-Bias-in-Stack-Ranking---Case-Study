@@ -25,7 +25,7 @@ Final Q Score, Final P Score, Final T Score
 
 Final T (Total Score)
 
-## 📐 KPI Weights (as per Amazon's model)
+## 📐 KPI Weights (as per MNC's model)
 
 | **KPI**                  | **Weight (%)** |
 |--------------------------|----------------|
