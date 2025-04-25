@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/74e7255e-c5c7-4b2c-a960-7964f8d78957)# Audit-Volume-Bias-in-Stack-Ranking---Case-Study
+![image](https://github.com/user-attachments/assets/74e7255e-c5c7-4b2c-a960-7964f8d78957)# 
+
+Audit-Volume-Bias-in-Stack-Ranking---Case-Study
 This case study explores bias in a performance evaluation framework used by large-scale e-commerce operations, focusing on how quality metrics unfairly penalize employees handling fewer audit tasks within a normalized KPI-based ranking system.
 
 📂 Dataset Summary
